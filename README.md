@@ -1,2 +1,2 @@
-# Vartity
+# Varsity
 mine
